@@ -41,5 +41,3 @@ jspm_packages
 *.jpeg
 *.png
 *.gif
-result_tweets.json
-historic_tweets.json
